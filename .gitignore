@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+.Rcheck/
+.Rbuildignore
+.Renviron
+.Rprofile
+*.Rproj
+*.tar.gz
+*.Rcheck
+.RDS
+.DS_Store
+man/*.Rd
